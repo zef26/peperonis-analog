@@ -1,0 +1,313 @@
+{
+    "pizza" : [
+        {
+        "products_name" : "Пиццы",
+
+        "products" : [
+
+            {   
+        "id": 1,
+        "name": "Сырная",
+        "img": "https://aware.uz/static/img/dodo/Сырная.avif",
+        
+            "size" : {
+                "small" : {
+                    "price" : " 100 ",
+                    "size-txt" : "Маленькая"
+                },
+                "big" : {
+                    "price" : "200",
+                    "size-txt" : "Большая"
+                },
+                "extra" : {
+                    "price" : "300",
+                    "size-txt" : "Экстра"
+                }
+            }
+        
+    },
+    {
+        "id": 2,
+        "name": "Маргарита",
+        "img": "https://aware.uz/static/img/dodo/Маргарита.avif",
+        
+            "size" : {
+                "small" : {
+                    "price" : " 100 " ,
+                    "size-txt" : "Маленькая"
+                },
+                "big" : {
+                    "price" : "200",
+                    "size-txt" : "Большая"
+                },
+                "extra" : {
+                    "price" : "300",
+                    "size-txt" : "Экстра"
+                }
+            }
+        
+    },
+    {
+        "id": 3,
+        "name": "Аррива",
+        "img": "https://aware.uz/static/img/dodo/Аррива.avif",
+        
+            "size" : {
+                "small" : {
+                    "price" : " 100 ",
+                    "size-txt" : "Маленькая"
+                },
+                "big" : {
+                    "price" : "200",
+                    "size-txt" : "Большая"
+                },
+                "extra" : {
+                    "price" : "300",
+                    "size-txt" : "Экстра"
+                }
+            }
+        
+    },
+    {
+        "id": 4,
+        "name": "Двойная пепперони",
+        "img": "https://aware.uz/static/img/dodo/Двойная пепперони.avif",
+        
+            "size" : {
+                "small" : {
+                    "price" : " 100 ",
+                    "size-txt" : "Маленькая"
+                },
+                "big" : {
+                    "price" : "200",
+                    "size-txt" : "Большая"
+                },
+                "extra" : {
+                    "price" : "300",
+                    "size-txt" : "Экстра"
+                }
+            }
+        
+    },
+    {
+        "id": 5,
+        "name": "Колбаски барбекю",
+        "img": "https://aware.uz/static/img/dodo/Колбаски барбекю.avif",
+        
+            "size" : {
+                "small" : {
+                    "price" : " 100 ",
+                    "size-txt" : "Маленькая"
+                },
+                "big" : {
+                    "price" : "200",
+                    "size-txt" : "Большая"
+                },
+                "extra" : {
+                    "price" : "300",
+                    "size-txt" : "Экстра"
+                }
+            }
+        
+    },
+    {
+        "id": 6,
+        "name": "Песто",
+        "img": "https://aware.uz/static/img/dodo/Песто.avif",
+        
+            "size" : {
+                "small" : {
+                    "price" : " 100 ",
+                    "size-txt" : "Маленькая"
+                },
+                "big" : {
+                    "price" : "200",
+                    "size-txt" : "Большая"
+                },
+                "extra" : {
+                    "price" : "300",
+                    "size-txt" : "Экстра"
+                }
+            }
+        
+    },
+    {
+        "id": 7,
+        "name": "Овощи и грибы",
+        "img": "https://aware.uz/static/img/dodo/Овощи и грибы.avif",
+        
+            "size" : {
+                "small" : {
+                    "price" : " 100 ",
+                    "size-txt" : "Маленькая"
+                },
+                "big" : {
+                    "price" : "200",
+                    "size-txt" : "Большая"
+                },
+                "extra" : {
+                    "price" : "300",
+                    "size-txt" : "Экстра"
+                }
+            }
+        
+    },
+    {
+        "id": 8,
+        "name": "Пепперони",
+        "img": "https://aware.uz/static/img/dodo/Пепперони.avif",
+        
+            "size" : {
+                "small" : {
+                    "price" : " 100 ",
+                    "size-txt" : "Маленькая"
+                },
+                "big" : {
+                    "price" : "200",
+                    "size-txt" : "Большая"
+                },
+                "extra" : {
+                    "price" : "300",
+                    "size-txt" : "Экстра"
+                }
+            }
+        
+    }
+
+
+
+
+
+
+
+
+        ]
+
+
+
+        
+
+    }
+
+
+    ],
+    "deserts" : [
+        {
+        "products_name" : "Десерты",
+        "products" : [
+            {
+                
+        "id" : "1",
+        "name" : "Додо тарт",
+        "price" : "100",
+        "img" : "https://aware.uz/static/img/dodo/Додо тарт.avif"
+        
+            },
+            {
+                
+        "id" : "1",
+        "name" : "Макарон манго-маракуйя",
+        "price" : "100",
+        "img" : "https://aware.uz/static/img/dodo/Макарон манго-маракуйя.avif"
+        
+            },
+            {
+                
+        "id" : "1",
+        "name" : "Сорбет Лимонный фреш",
+        "price" : "100",
+        "img" : "https://aware.uz/static/img/dodo/Сорбет Лимонный фреш.avif"
+        
+            },
+            {
+                
+        "id" : "1",
+        "name" : "Фондан",
+        "price" : "100",
+        "img" : "https://aware.uz/static/img/dodo/Фондан.avif"
+        
+            },
+            {
+                
+        "id" : "1",
+        "name" : "Чизкейк Нью-Йорк с кокосом",
+        "price" : "100",
+        "img" : "https://aware.uz/static/img/dodo/Чизкейк Нью-Йорк с кокосом.avif"
+        
+            }
+            
+        ]
+        }
+    ],
+    "drinks" : [
+        {
+        "products_name" : "Напитки",
+        "products" : [
+            {
+                
+        "id" : "1",
+        "name" : "Rich Tea Зеленый",
+        "price" : "100",
+        "img" : "https://aware.uz/static/img/dodo/Rich Tea Зеленый.avif"
+        
+            },
+            
+            {
+                
+        "id" : "1",
+        "name" : "Rich Tea Черный с лимоном",
+        "price" : "100",
+        "img" : "https://aware.uz/static/img/dodo/Rich Tea Черный с лимоном.avif"
+        
+            },
+            
+            {
+                
+        "id" : "1",
+        "name" : "Вишневый нектар Rich",
+        "price" : "100",
+        "img" : "https://aware.uz/static/img/dodo/Вишневый нектар Rich.avif"
+        
+            },
+            
+            {
+                
+        "id" : "1",
+        "name" : "Вода BonaAqua негазированная",
+        "price" : "100",
+        "img" : "https://aware.uz/static/img/dodo/Вода BonaAqua негазированная.avif"
+        
+            },
+            
+            {
+                
+        "id" : "1",
+        "name" : "Добрый Апельсин",
+        "price" : "100",
+        "img" : "https://aware.uz/static/img/dodo/Добрый Апельсин.avif"
+        
+            },
+            
+            {
+                
+        "id" : "1",
+        "name" : "Добрый Кола без сахара",
+        "price" : "100",
+        "img" : "https://aware.uz/static/img/dodo/Добрый Кола без сахара.avif"
+        
+            },
+            
+            {
+                
+        "id" : "1",
+        "name" : "Добрый Кола",
+        "price" : "100",
+        "img" : "https://aware.uz/static/img/dodo/Добрый Кола.avif"
+        
+            }
+            
+        ]
+
+        }
+    ]
+}

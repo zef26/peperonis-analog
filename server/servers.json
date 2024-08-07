@@ -1,0 +1,200 @@
+{
+    "pizza" : [
+        {
+        "products_name" : "Пиццы",
+
+        "products" : [
+
+            {   
+        "id": 1,
+        "name": "Маргарита",
+        "img": "https://media.dodostatic.net/image/r:292x292/11EEE20599168CB6B2D23EDD67D87EF0.avif",
+        
+            "size" : {
+                "small" : {
+                    "price" : " 100 ",
+                    "size-txt" : "Маленькая"
+                },
+                "big" : {
+                    "price" : "200",
+                    "size-txt" : "Большая"
+                },
+                "extra" : {
+                    "price" : "300",
+                    "size-txt" : "Экстра"
+                }
+            }
+        
+    },
+    {
+        "id": 2,
+        "name": "Маргарита",
+        "img": "https://media.dodostatic.net/image/r:292x292/11EEE20599168CB6B2D23EDD67D87EF0.avif",
+        
+            "size" : {
+                "small" : {
+                    "price" : " 100 " ,
+                    "size-txt" : "Маленькая"
+                },
+                "big" : {
+                    "price" : "200",
+                    "size-txt" : "Большая"
+                },
+                "extra" : {
+                    "price" : "300",
+                    "size-txt" : "Экстра"
+                }
+            }
+        
+    },
+    {
+        "id": 3,
+        "name": "Маргарита",
+        "img": "https://media.dodostatic.net/image/r:292x292/11EEE20599168CB6B2D23EDD67D87EF0.avif",
+        
+            "size" : {
+                "small" : {
+                    "price" : " 100 ",
+                    "size-txt" : "Маленькая"
+                },
+                "big" : {
+                    "price" : "200",
+                    "size-txt" : "Большая"
+                },
+                "extra" : {
+                    "price" : "300",
+                    "size-txt" : "Экстра"
+                }
+            }
+        
+    },
+    {
+        "id": 4,
+        "name": "Маргарита",
+        "img": "https://media.dodostatic.net/image/r:292x292/11EEE20599168CB6B2D23EDD67D87EF0.avif",
+        
+            "size" : {
+                "small" : {
+                    "price" : " 100 ",
+                    "size-txt" : "Маленькая"
+                },
+                "big" : {
+                    "price" : "200",
+                    "size-txt" : "Большая"
+                },
+                "extra" : {
+                    "price" : "300",
+                    "size-txt" : "Экстра"
+                }
+            }
+        
+    },
+    {
+        "id": 5,
+        "name": "Маргарита",
+        "img": "https://media.dodostatic.net/image/r:292x292/11EEE20599168CB6B2D23EDD67D87EF0.avif",
+        
+            "size" : {
+                "small" : {
+                    "price" : " 100 ",
+                    "size-txt" : "Маленькая"
+                },
+                "big" : {
+                    "price" : "200",
+                    "size-txt" : "Большая"
+                },
+                "extra" : {
+                    "price" : "300",
+                    "size-txt" : "Экстра"
+                }
+            }
+        
+    },
+    {
+        "id": 6,
+        "name": "Маргарита",
+        "img": "https://media.dodostatic.net/image/r:292x292/11EEE20599168CB6B2D23EDD67D87EF0.avif",
+        
+            "size" : {
+                "small" : {
+                    "price" : " 100 ",
+                    "size-txt" : "Маленькая"
+                },
+                "big" : {
+                    "price" : "200",
+                    "size-txt" : "Большая"
+                },
+                "extra" : {
+                    "price" : "300",
+                    "size-txt" : "Экстра"
+                }
+            }
+        
+    },
+    {
+        "id": 7,
+        "name": "Маргарита",
+        "img": "https://media.dodostatic.net/image/r:292x292/11EEE20599168CB6B2D23EDD67D87EF0.avif",
+        
+            "size" : {
+                "small" : {
+                    "price" : " 100 ",
+                    "size-txt" : "Маленькая"
+                },
+                "big" : {
+                    "price" : "200",
+                    "size-txt" : "Большая"
+                },
+                "extra" : {
+                    "price" : "300",
+                    "size-txt" : "Экстра"
+                }
+            }
+        
+    },
+    {
+        "id": 8,
+        "name": "Маргарита",
+        "img": "https://media.dodostatic.net/image/r:292x292/11EEE20599168CB6B2D23EDD67D87EF0.avif",
+        
+            "size" : {
+                "small" : {
+                    "price" : " 100 ",
+                    "size-txt" : "Маленькая"
+                },
+                "big" : {
+                    "price" : "200",
+                    "size-txt" : "Большая"
+                },
+                "extra" : {
+                    "price" : "300",
+                    "size-txt" : "Экстра"
+                }
+            }
+        
+    }
+
+        ]
+
+    }
+
+
+    ],
+
+    "deserts" : [
+        {
+        "products_name" : "Десерты",
+        "products" : [
+            {
+                
+        "id" : "1",
+        "name" : "Кекс",
+        "price" : "100",
+        "img" : "https://business.nilavia.ru/dodo/Rich Tea Зеленый.avif"
+        
+            }
+            
+        ]
+        }
+    ]
+}

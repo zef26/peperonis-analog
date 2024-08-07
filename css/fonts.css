@@ -1,0 +1,9 @@
+@font-face {
+	font-family: 'DodoRounded-Regular';
+	src: url('../fonts/dodorounded-regular.eot'); /* IE 9 Compatibility Mode */
+	src: url('../fonts/dodorounded-regular.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('../fonts/dodorounded-regular.woff2') format('woff2'), /* Super Modern Browsers */
+		url('../fonts/dodorounded-regular.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('../fonts/dodorounded-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('../fonts/dodorounded-regular.svg#dodorounded-regular') format('svg'); /* Chrome < 4, Legacy iOS */
+}
